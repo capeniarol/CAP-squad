@@ -1,0 +1,2 @@
+# CAP-squad
+Determinístico
